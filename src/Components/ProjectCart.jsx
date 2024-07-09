@@ -15,7 +15,7 @@ const ProjectCart = () => {
              </figure>
              <div className="card-body text-white">
                <h2 className="card-title text-2xl">YumHub</h2>
-               <p>YumHub is a food bar website. I added a user authentication system using Firebase. Users can add food items and manage their added food, including deleting and updating them. Also users can request food and manage their requested food. The client side is built using React, and the server side is built using Node.js and MongoDB.</p>
+               <p>YumHub is a food bar website. I added a user authentication system using Firebase. Users can add food items and manage their added food, including deleting and updating them. Also users can request food and manage their requested food. The client side is built using React, and the server side is built using Express.js and MongoDB.</p>
                <div className="card-actions justify-end">
                   <a href="https://yumhub-c06d7.web.app/" className='btn bg-yellow-700 text-white flex items-center gap-1'> Visit Here</a>
                </div>
@@ -32,7 +32,7 @@ const ProjectCart = () => {
              </figure>
              <div className="card-body text-white">
                <h2 className="card-title text-2xl">Eco times</h2>
-               <p>Eco Times is an article-based website. I added a user authentication system using Firebase. I also implemented a subscription system using Stripe.js. Users can add articles and manage their own articles. Premium users can explore premium content, but normal users cannot. Admins can manage all articles and users. The client side is built using React, and the server side is built using Node.js and MongoDB.</p>
+               <p>Eco Times is an article-based website. I added a user authentication system using Firebase. I also implemented a subscription system using Stripe.js. Users can add articles and manage their own articles. Premium users can explore premium content, but normal users cannot. Admins can manage all articles and users. The client side is built using React, and the server side is built using Express.js and MongoDB.</p>
                <div className="card-actions justify-end">
                   <a href="https://eco-times.web.app/" className='btn bg-yellow-700 text-white flex items-center gap-1'> Visit Here</a>
                </div>
@@ -49,7 +49,7 @@ const ProjectCart = () => {
              </figure>
              <div className="card-body text-white">
                <h2 className="card-title text-2xl">Art and Craft</h2>
-               <p>Art and Craft is a craft related website. I added a user authentication system using Firebase. Users can add craft items and manage their added craft, including deleting and updating them.And users can see all craft and category wise craft. The client side is built using React, and the server side is built using Node.js and MongoDB.</p>
+               <p>Art and Craft is a craft related website. I added a user authentication system using Firebase. Users can add craft items and manage their added craft, including deleting and updating them.And users can see all craft and category wise craft. The client side is built using React, and the server side is built using Express.js and MongoDB.</p>
                <div className="card-actions justify-end">
                   <a href="https://sparkling-dolphin-403728.netlify.app/" className='btn bg-yellow-700 text-white flex items-center gap-1'> Visit Here</a>
                </div>
